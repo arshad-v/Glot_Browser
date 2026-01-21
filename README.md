@@ -1,6 +1,6 @@
 
 ![Glot Browser Screenshot](https://i.postimg.cc/Wpq7tN3J/Screenshot-2026-01-20-222117.png)
-##Glot_Browser
+
 **Glot Browser** is an experimental, privacy-first desktop web browser built on Chromium, designed to integrate local AI capabilities directly into the browsing experience. It allows users to interact with the web using AI assistance while keeping full control over data, models, and execution.
 Glot Browser combines a modern Chromium-based browsing engine with a locally running AI backend. Unlike cloud-dependent AI browsers, Glot Browser is designed to:
 
