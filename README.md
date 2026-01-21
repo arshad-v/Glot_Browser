@@ -35,5 +35,54 @@ This project is currently in **active development** and should be considered **e
 
 ---
 
-## Architecture (High-Level)
+## Platform Support
+
+- **Windows (64-bit)**  
+Other platforms may be explored in the future, but are not currently supported.
+
+---
+
+## Project Status
+
+- Release type: **Early / Experimental**
+- Stability: Actively improving
+- Intended audience:
+  - Developers
+  - Privacy-focused users
+  - AI enthusiasts
+  - Open-source contributors
+
+This project is **not yet intended for production or enterprise use**.
+
+---
+
+## Security & Privacy Notes
+
+- No mandatory sign-in or account system
+- No background telemetry or analytics
+- No cloud AI usage unless explicitly configured by the user
+- All AI requests are initiated by the user
+
+Users are encouraged to review the source code and runtime behavior.
+
+---
+
+## Contributing
+
+Contributions, issues, and discussions are welcome.
+
+You can help by:
+- Reporting bugs or UI issues
+- Suggesting architecture improvements
+- Improving documentation
+- Testing new features or model integrations
+
+Please open an issue before submitting major changes.
+
+---
+
+## Disclaimer
+
+Glot Browser is provided **as-is**, without warranty of any kind.  
+Use at your own risk.
 
