@@ -52,8 +52,6 @@ Other platforms may be explored in the future, but are not currently supported.
   - AI enthusiasts
   - Open-source contributors
 
-This project is **not yet intended for production or enterprise use**.
-
 ---
 
 ## Security & Privacy Notes
